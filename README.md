@@ -1,3 +1,5 @@
+Hi there 👋 am Challoh!
+
 # 💫 About Me:
 Profession: Software Developer<br>Education: I hold a  Bachelor's  degree in Information Technology<br>Skills:<br>Proficient in programming languages such as  Python, JavaScript, and C.<br>Expertise in front-end technologies like  HTML/CSS.<br>Skilled in back-end development with frameworks like Django.<br>Experienced with databases MySQL.<br>Knowledge of cloud platforms like AWS, Azure, and Google Cloud.<br>Passion: Passionate about problem-solving and creating efficient software solutions.<br>Interests: Interested in exploring new technologies like AI, machine learning, and blockchain.<br>Hobbies: In my free time, I enjoy coding personal projects, solving coding challenges.
 
